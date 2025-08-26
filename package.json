@@ -1,0 +1,24 @@
+{
+  "name": "trabalhoptas-sabadoletivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hortthenciacastro/trabalhoptas-sabadoletivo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hortthenciacastro/trabalhoptas-sabadoletivo/issues"
+  },
+  "homepage": "https://github.com/hortthenciacastro/trabalhoptas-sabadoletivo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
