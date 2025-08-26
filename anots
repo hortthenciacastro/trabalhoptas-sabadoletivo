@@ -1,0 +1,9 @@
+npm init -y
+
+npm i express
+
+npm index.js 
+
+GET http://localhost:3000/centros
+
+POST http://localhost:3000/centros
